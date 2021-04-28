@@ -9,23 +9,23 @@ Rooms	| Number of rooms
 Price	| Price in dollars	
 Method	|
 S	| Property sold
-	SP	| Property sold prior
-	PI	| Property passed in
-	PN	| Sold prior not disclosed
-	SN	| Sold not disclosed
-	NB	| No bid
-	VB	| Vendor bid
-	W	| Withdrawn prior to auction
-	SA	| Sold after auction
-	SS	| Sold after auction price not disclosed.
-	N/A	| Price or highest bid not available
+SP	| Property sold prior
+PI	| Property passed in
+PN	| Sold prior not disclosed
+SN	| Sold not disclosed
+NB	| No bid
+VB	| Vendor bid
+W	| Withdrawn prior to auction
+SA	| Sold after auction
+SS	| Sold after auction price not disclosed.
+N/A	| Price or highest bid not available
 Type	|
 br |	Bedroom(s)
-	h	| House, cottage, villa, semi, terrace
-	u	| Unit, duplex
-	t	| Townhouse
-	dev site	| Development site
-	o res	| Other residential.
+h	| House, cottage, villa, semi, terrace
+u | Unit, duplex
+t	| Townhouse
+dev site	| Development site
+o res	| Other residential.
 SellerG | Real Estate Agent	
 Date	| Date sold	
 Distance	| Distance from CBD	
