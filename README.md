@@ -7,7 +7,7 @@ Column Name | Description
 ------------ | -------------
 Rooms	| Number of rooms	
 Price	| Price in dollars	
-Method	
+Method	|
 S	| Property sold
 	SP	| Property sold prior
 	PI	| Property passed in
@@ -19,7 +19,7 @@ S	| Property sold
 	SA	| Sold after auction
 	SS	| Sold after auction price not disclosed.
 	N/A	| Price or highest bid not available
-Type	
+Type	|
 br |	Bedroom(s)
 	h	| House, cottage, villa, semi, terrace
 	u	| Unit, duplex
